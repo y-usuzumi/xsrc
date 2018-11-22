@@ -89,4 +89,4 @@ $as: "XiaoSiClient"
 
 * Q: XiaoSi是什么？
 
-  A: 你管得着么？
+  A: 你管得着么（笑死）。
