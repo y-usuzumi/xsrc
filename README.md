@@ -87,5 +87,6 @@ $as: "XiaoSiClient"
 
 ## FAQ
 
-* XiaoSi是什么？
-  > 你管得着么？
+* Q: XiaoSi是什么？
+
+  A: 你管得着么？
