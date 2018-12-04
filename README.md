@@ -1,5 +1,7 @@
 # XSRC
 
+> **!!! 已放弃！** 请右转[xsrc-rs](https://github.com/y-usuzumi/xsrc-rs)
+
 _Work in Progress_
 
 XSRC = **XiaoSi REST Client**
